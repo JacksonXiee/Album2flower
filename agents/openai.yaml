@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片转花束"
+  short_description: "把图片转成可真实插制的花束，并生成左手前举手机随拍"
+  default_prompt: "使用 $image-to-bouquet 把我的参考图转成可真实插制的花束，并生成左手前举手机随拍及三件套文件。"
